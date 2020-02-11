@@ -22,3 +22,9 @@ To create one R script called run_analysis.R that does the following.
   * CodeBook.md - code book that describes the variables, the data, and any transformations
   * tidydf.csv  - final data set 
   
+  ## Steps to replicate
+  1. Download and unzip data
+  2. Move relevant files to working directory 
+  3. Run run_analisys.R
+  4. Results in a saved new tidy data set called tidydf.cvs
+  
