@@ -20,3 +20,5 @@ To create one R script called run_analysis.R that does the following.
   ## Contents
   * run_analysis.R - code to reach objectives as above
   * CodeBook.md - code book that describes the variables, the data, and any transformations
+  * tidydf.csv  - final data set 
+  
