@@ -81,6 +81,7 @@ tidy_df <- reshape2::dcast(new_df, subjectID+activity ~ variable, mean)
 #save tidy_df
   
 write.csv(tidy_df, "C:/Users/waws0/Documents/R/GalaxyDataset/tidydf.csv", row.names = FALSE)
+write.table(tidy_df, "C:/Users/waws0/Documents/R/GalaxyDataset/tidytxt.txt", row.name=FALSE)
 
 
 
